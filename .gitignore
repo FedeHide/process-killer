@@ -1,0 +1,5 @@
+/dist
+/build
+process_killer.py:Zone.Identifier
+process_killer.spec
+target.ico:Zone.Identifier
